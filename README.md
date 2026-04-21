@@ -127,20 +127,14 @@ lambda_function.lambda_handler
 
 ## Screenshots
 
-You can add screenshots here later. A simple pattern is:
-
 ```md
 ## Screenshots
 
-![Local Run](assets/screenshots/local-run.png)
-![Sample Output](assets/screenshots/sample-output.png)
+![API Call Stats](assets/screenshots/API_CALL_STATS.png)
+![Recommendations by AI](assets/screenshots/RECOMMENDATIONS.png)
+![Structured Payload and other details](assets/screenshots/STRUCTURED_PAYLOAD.png)
 ```
 
-Suggested location:
-
-```text
-assets/screenshots/
-```
 
 ## Good Next Extensions
 
