@@ -127,13 +127,9 @@ lambda_function.lambda_handler
 
 ## Screenshots
 
-```md
-## Screenshots
-
 ![API Call Stats](assets/screenshots/API_CALL_STATS.png)
 ![Recommendations by AI](assets/screenshots/RECOMMENDATIONS.png)
 ![Structured Payload and other details](assets/screenshots/STRUCTURED_PAYLOAD.png)
-```
 
 
 ## Good Next Extensions
