@@ -4,6 +4,8 @@ An AWS Lambda function that enriches incoming security alerts with Google Gemini
 
 This project is intentionally lightweight right now: the repository is centered around a single `lambda_function.py` so it is easy to read, demo, and extend.
 
+![Recommendations by AI](assets/screenshots/RECOMMENDATIONS.png)
+
 ## What It Does
 
 The Lambda accepts a raw alert payload, sends it to Gemini for contextual enrichment, and returns:
