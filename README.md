@@ -132,9 +132,8 @@ You can add screenshots here later. A simple pattern is:
 ```md
 ## Screenshots
 
-<img width="1772" height="562" alt="image" src="https://github.com/user-attachments/assets/ae92cf55-0e24-4de0-b34a-ff7dfde203da" />
-<img width="993" height="432" alt="image" src="https://github.com/user-attachments/assets/73ae3ddc-8e16-4cff-b3fb-613adf398fdd" />
-<img width="1456" height="623" alt="image" src="https://github.com/user-attachments/assets/30806e45-057d-4baf-9254-6f19684d6602" />
+<img width="1456" height="623" alt="output 3" src="https://github.com/user-attachments/assets/cd92e1d5-3ab4-4482-912e-3167524b2899" />
+
 
 ```
 
